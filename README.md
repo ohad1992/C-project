@@ -1,2 +1,2 @@
-# C-project
+# uviversity project in C
 project in c
